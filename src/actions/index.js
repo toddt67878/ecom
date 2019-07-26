@@ -2,7 +2,7 @@ import {
     setHeaderLinks,
     setNavbarLinks,
     changeNavbarActive
-} from '../headernavbar';
+} from './headernavbar';
 
 import {
     fetchUserPurchases,
